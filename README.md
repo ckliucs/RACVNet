@@ -31,7 +31,6 @@ python -m pip install 'opencv-python-headless==4.10.0.84' \
   'matplotlib==3.7.5' 'seaborn==0.13.2'
 ```
 
-`CASCADE_ROOT` should point to a directory containing `lib/pvtv2.py` and `lib/decoders.py`.
 
 ## Dataset Preparation
 
